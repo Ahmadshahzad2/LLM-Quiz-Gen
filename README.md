@@ -1,6 +1,6 @@
-# PDF Quiz
+# LLM based Quiz Generator
 
-The PDF Quiz Application is an innovative tool designed to transform PDF documents into interactive quizzes, enhancing the learning and assessment process. This application seamlessly integrates a `React-Frontend` for user interaction with a `Flask-Backend` for processing, creating a dynamic and engaging educational experience.
+The LLM based Quiz Generator Application is an innovative tool designed to transform PDF documents into interactive quizzes, enhancing the learning and assessment process. This application seamlessly integrates a `React-Frontend` for user interaction with a `Flask-Backend` for processing, creating a dynamic and engaging educational experience.
 
 ## Features
 
