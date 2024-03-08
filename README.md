@@ -18,7 +18,7 @@ The PDF Quiz Application is an innovative tool designed to transform PDF documen
 
 1. **Clone the repository**
    ```bash
-   https://github.com/DaniyalAhmadKhan-LUMS/PDF-Quiz.git
+   https://github.com/Ahmadshahzad2/LLM-Quiz-Gen.git
 2. **Set up the Flask-Backend**
    Navigate to the Flask-Backend directory and install the required Python dependencies.
    ```bash
@@ -57,5 +57,4 @@ The Flask-Backend consists of two main components:
    * **Question Creation:** Generates both multiple-choice and open-ended questions from text chunks.
    * **Grading:** Automatically grades user responses, providing feedback on their answers.
   
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
